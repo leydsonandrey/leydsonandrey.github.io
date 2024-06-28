@@ -1,10 +1,8 @@
 # Leydson Andrey
 
-Programador autodidata
-
 [Redes sociais e outros links](https://leydsonandrey.github.io/links)
 
-## Projetos
+## 🔨 Projetos
 
 ### Work With Us
 
@@ -26,3 +24,10 @@ Uma simples página para edição de texto.
 
 - [Site](https://leydsonandrey.github.io/word/)
 - [Github](https://github.com/leydsonandrey/word)
+
+### Minecraft Book
+
+Simula o livro do famoso jogo [Minecraft](https://pt.wikipedia.org/wiki/Minecraft) com HTML.
+
+- [Site](https://leydsonandrey.github.io/book)
+- [Github](https://github.com/leydsonandrey/book)
