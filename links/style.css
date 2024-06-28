@@ -85,12 +85,24 @@ nav a {
   color: var(--primary);
   display: block;
   text-decoration: none;
-  border: 0.2rem solid var(--black);
+  border: 0.3rem solid var(--black);
   border-radius: 0.5rem;
   background: var(--black);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   letter-spacing: 1px;
-  padding: 1rem 0.5rem;
+  padding: 1rem 1rem;
+  text-align: left;
+}
+
+nav a div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a div img {
+  width: 2.5rem;
+  height: 2.5rem;
 }
 
 nav a:hover {
@@ -111,3 +123,4 @@ nav a:hover {
     font-size: 1rem;
   }
 }
+
