@@ -10,6 +10,8 @@ Programador autodidata e apaixonado por tecnologia.
 
 O [Retangulo.org](https://retangulo.org) é uma plataforma de exercícios matemáticos projetada para desafiar suas habilidades de cálculo. Melhore suas habilidades de resolução de cálculo mental e resolva as questões o mais rápido possível sem cometer erros. Atualmente, o [Retangulo.org](https://retangulo.org), conta com a possibilidade de gerar cálculos aleatórios com ou sem negativo nas seguintes operações matemáticas: adição, subtração, divisão, multiplicação, raiz quadrada, expoente 2 e expoente 3.
 
+[Site](https://retangulo.org)
+
 ### VagasDB
 
 Uma grande dificuldade, atualmente, é encontrar lugares onde encontrar vagas de empregos. Existem diversas plataformas com essa finalidade e as empresas ainda fazem seus próprios métodos para buscar novos empregados. Devido a isso, o [VagasDB](https://vagasdb.vercel.app) (Vagas Database) nasceu visando organizar esses meios em um único lugar, assim, facilitando o seu acesso a vagas de empregos (e ainda tem mais!).
